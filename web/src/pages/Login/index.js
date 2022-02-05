@@ -11,7 +11,7 @@ export default function Login() {
             <main className='grow flex justify-center'>
                 <CartContainer className="h-full w-11/12 sm:w-2/3 md:w-2/3 lg:w-1/2 p-5 flex flex-col">
                     <div className='mb-5'>
-                        <h1 className='text-xl text-center text-teal-600 font-semibold'>Entre</h1>
+                        <h1 className='text-2xl text-center text-teal-600 font-semibold'>Entre</h1>
                     </div>
                     <div className='mb-5'>
                         <Input type='email' placeholder='E-mail' />
