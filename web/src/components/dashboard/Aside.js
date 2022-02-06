@@ -1,5 +1,5 @@
 export default function Aside() {
     return (
-        <aside className="col-span-12 md:col-span-3 xl:col-span-4">Aside</aside>
+        <aside className="grow col-span-12 sm:col-span-8 md:col-span-9 lg:col-span-3 xl:col-span-4 2xl:col-span-5">Aside</aside>
     );
 }
